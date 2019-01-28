@@ -16,7 +16,7 @@ function mapPosts(){
             '</div>';
         postContent += singlePost;
     }
-    //$('#posts').html(postContent);
+    $('#posts').html(postContent);
 }
 
 $(document).ready(function () {
