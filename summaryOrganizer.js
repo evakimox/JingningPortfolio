@@ -1,4 +1,7 @@
 let posts = [
+    {id:8, title:"Kazuki Makabe making birthday cake", imgsrc:"./pics/kazuki.png",
+        additional:"Fanart of main protagonist from anime series Soukyuu no Fafner."
+    },
     {id:7, title:"Nekopara Emoji Modification", imgsrc:"./pics/NekoPara Emoji.png",
         additional:"This picture was inspired by good art game Nekopara, based on Wechat emoji pack well-behaved-baby."
     },
